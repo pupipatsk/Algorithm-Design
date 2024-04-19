@@ -44,7 +44,10 @@
   - Connected Component
   - Topological Sort
   - Prim's & Kruskal Algorithms
-  - Shortest Path: Dijkstra, Bellman-Ford, Floyd-Warshall
+  - Shortest Path
+    - Dijkstra
+    - Bellman-Ford
+    - Floyd-Warshall
 - State Space Search
   - State Space Tree/Graph
   - Branch-and-Bound (0/1 Knapsack)
