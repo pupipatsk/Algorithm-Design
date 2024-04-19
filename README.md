@@ -1,2 +1,58 @@
 # Algorithm Design
- 2110327 Algorithm Design
+2110327 Algorithm Design
+
+## Table of Contents
+- Brute Force
+  - Solution Space
+  - Enumerating all solutions
+  - Combination
+  - Permutation
+- Sorting
+  - Selection Sort
+  - Heap Sort
+  - Insertion Sort
+  - Shell Sort
+- Complexity Analysis
+  - Review
+  - Master Method
+- Divide and Conquer
+  - Binary Search
+  - Merge Sort
+  - Quick Sort
+  - Quick Select
+  - Modular Expo
+  - Maximum Contiguous Sum
+  - Strassen's Matrix Multiplication
+  - Closest Pair
+  - Celebrity
+- Dynamic Programming
+  - Fibonacci Seq.
+  - Binomial Coefficient
+  - Longest Common Subsequence
+  - Maximum Contiguous Sum
+  - Matrix-Chain Multiplication
+  - 0/1 Knapsack
+  - Coin Change
+- Greedy Algorithms
+  - Activity Selection
+  - Fractional Knapsack
+- Graph
+  - Representation
+  - Finding a Path in a Graph
+  - BFS
+  - DFS
+  - Connected Component
+  - Topological Sort
+  - Prim's & Kruskal Algorithms
+  - Shortest Path: Dijkstra, Bellman-Ford, Floyd-Warshall
+- State Space Search
+  - State Space Tree/Graph
+  - Branch-and-Bound (0/1 Knapsack)
+  - Best First Search (15-Puzzle)
+- NP-Completeness
+  - Decision Problem
+  - Undecidability
+  - Problem Reduction
+  - P, NP, co-NP, NP-hard, NP-C
+  - Cook–Levin theorem
+  - Proof of NP-Completeness
