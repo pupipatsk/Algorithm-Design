@@ -39,8 +39,8 @@
 - Graph
   - Representation
   - Finding a Path in a Graph
-  - BFS
-  - DFS
+  - BFS - Breadth First Search
+  - DFS - Depth First Search
   - Connected Component
   - Topological Sort
   - Prim's & Kruskal Algorithms
