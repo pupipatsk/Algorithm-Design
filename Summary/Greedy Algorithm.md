@@ -1,0 +1,23 @@
+# Greedy Algorithms
+
+- design framework
+- works correctly on just some problem only
+- constructing a candidate solution
+- not aim to enumerate all candidate solutions, it just want to create the correct one
+- Construction of the solution
+  - divided into several steps
+  - At each step, greedy algorithm **pick the best option of this step only**
+  - of this step only **without** 
+    - trying any other option
+    - looking ahead into another step
+- define best depends on the algorithm
+- very fast
+- doesn't guarantee a correct solution
+- needs proof
+- e.g.
+  - Rational Knapsack
+    - Select *most precious*(best price/weight) item first
+    - O(n log n) from sorting, the actual selection is O(n)
+  - Activity Selection
+    - Sort job by *stop time* and pick one that does not conflict
+    - O(n log n) from sorting, the actual selection is O(n)
