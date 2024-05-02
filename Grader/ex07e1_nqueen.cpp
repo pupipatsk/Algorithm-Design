@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-    
+
 int n;
 int ans = 0;
 int queen[20]; // [row, row, ...]
