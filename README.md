@@ -53,9 +53,13 @@
     - Bellman-Ford
     - Floyd-Warshall
 - State Space Search
-  - State Space Tree/Graph
-  - Branch-and-Bound (0/1 Knapsack)
-  - Best First Search (15-Puzzle)
+  - State Space Tree Traversing
+    - Search tree
+    - BFS / DFS
+  - State Space Tree Optimization
+    - Backtracking
+    - Branch-and-Bound (0/1 Knapsack)
+      - Best First Search / Least-Cost Search (15-Puzzle)
 - NP-Completeness
   - Decision Problem
   - Undecidability
