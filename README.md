@@ -43,6 +43,7 @@
   - DFS - Depth First Search
   - Connected Component
   - Topological Sort
+    - Kahn’s Algorithm
   - Prim's & Kruskal Algorithms
   - Shortest Path
     - Dijkstra
