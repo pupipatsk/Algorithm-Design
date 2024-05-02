@@ -41,10 +41,13 @@
   - Finding a Path in a Graph
   - BFS - Breadth First Search
   - DFS - Depth First Search
-  - Connected Component
+  - CC - Connected Component
+    - SCC - Strongly Connected Component
   - Topological Sort
     - Kahn’s Algorithm
-  - Prim's & Kruskal Algorithms
+  - Minimum Spanning Tree
+    - Prim's Algorithm
+    - Kruskal's Algorithm
   - Shortest Path
     - Dijkstra
     - Bellman-Ford
