@@ -58,8 +58,8 @@
     - BFS / DFS
   - State Space Tree Optimization
     - Backtracking
-    - Branch-and-Bound (0/1 Knapsack)
-      - Best First Search / Least-Cost Search (15-Puzzle)
+    - Branch-and-Bound
+      - Best First Search / Least-Cost Search
 - NP-Completeness
   - Decision Problem
   - Undecidability
