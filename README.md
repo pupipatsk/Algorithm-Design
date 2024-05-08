@@ -33,10 +33,10 @@
   - Matrix-Chain Multiplication
   - 0/1 Knapsack
   - Coin Change
-- Greedy Algorithms
+- [Greedy Algorithm](Summary/Greedy</br>Algorithm.md)
   - Activity Selection
   - Fractional Knapsack
-- Graph
+- [Graph](Summary/Graph.md)
   - Representation
   - Finding a Path in a Graph
   - BFS - Breadth First Search
@@ -52,7 +52,7 @@
     - Dijkstra
     - Bellman-Ford
     - Floyd-Warshall
-- State Space Search
+- [State Space Search](Summary/State</br>Space</br>Search.md)
   - State Space Tree Traversing
     - Search tree
     - BFS / DFS
